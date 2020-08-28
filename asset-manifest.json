@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/IChequeUI/static/css/main.150ed6b1.chunk.css",
+    "main.js": "/IChequeUI/static/js/main.49471f44.chunk.js",
+    "main.js.map": "/IChequeUI/static/js/main.49471f44.chunk.js.map",
+    "runtime-main.js": "/IChequeUI/static/js/runtime-main.c951e1f6.js",
+    "runtime-main.js.map": "/IChequeUI/static/js/runtime-main.c951e1f6.js.map",
+    "static/css/2.1bb49182.chunk.css": "/IChequeUI/static/css/2.1bb49182.chunk.css",
+    "static/js/2.d9c1e8c6.chunk.js": "/IChequeUI/static/js/2.d9c1e8c6.chunk.js",
+    "static/js/2.d9c1e8c6.chunk.js.map": "/IChequeUI/static/js/2.d9c1e8c6.chunk.js.map",
+    "index.html": "/IChequeUI/index.html",
+    "precache-manifest.b04328e1b758dd89aa85221e457d8659.js": "/IChequeUI/precache-manifest.b04328e1b758dd89aa85221e457d8659.js",
+    "service-worker.js": "/IChequeUI/service-worker.js",
+    "static/css/2.1bb49182.chunk.css.map": "/IChequeUI/static/css/2.1bb49182.chunk.css.map",
+    "static/css/main.150ed6b1.chunk.css.map": "/IChequeUI/static/css/main.150ed6b1.chunk.css.map",
+    "static/js/2.d9c1e8c6.chunk.js.LICENSE.txt": "/IChequeUI/static/js/2.d9c1e8c6.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/IChequeUI/static/media/line.567f5738.gif",
+    "static/media/lgBackgroundImg.png": "/IChequeUI/static/media/lgBackgroundImg.07453124.png",
+    "static/media/theme.css": "/IChequeUI/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/IChequeUI/static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c951e1f6.js",
+    "static/css/2.1bb49182.chunk.css",
+    "static/js/2.d9c1e8c6.chunk.js",
+    "static/css/main.150ed6b1.chunk.css",
+    "static/js/main.49471f44.chunk.js"
+  ]
+}
