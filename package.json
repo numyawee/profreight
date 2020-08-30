@@ -17,6 +17,7 @@
     "primeicons": "^4.0.0",
     "primereact": "^4.2.2",
     "react": "^16.13.1",
+    "react-beautiful-dnd": "^13.0.0",
     "react-bootstrap": "^1.2.2",
     "react-bootstrap-dialog": "^0.13.0",
     "react-burger-menu": "^2.7.0",

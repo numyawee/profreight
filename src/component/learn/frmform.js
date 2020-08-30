@@ -2,8 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Form, Row, Col, Button, Container } from 'react-bootstrap';
 import { PlusOutlined, CloseOutlined, PlusCircleFilled, PlusCircleOutlined } from '@ant-design/icons';
 
-import { Select } from 'antd';
-import { Tabs } from 'antd';
+import { Select, Tabs } from 'antd';
 
 const { TabPane } = Tabs;
 const { Option } = Select;
@@ -11,7 +10,6 @@ const { Option } = Select;
 import gbstyle from '../../assets/gbstyle'
 
 export default function FrmForm() {
-    const [error, seterror] = useState();
 
     useEffect(() => {
     }, []);
@@ -116,7 +114,7 @@ export default function FrmForm() {
                 <Form.Group >
                     <Row>
                         <Col>
-                            <div class="hr-sect">Tab</div>
+                            <div class="hr-sect">Tabs</div>
                         </Col>
                     </Row>
                     <Row>
@@ -130,20 +128,15 @@ export default function FrmForm() {
                                 }}
                                 defaultActiveKey="1">
                                 <TabPane tab="New" key="1">
-                                    Content of Tab Pane 1
-                            </TabPane>
+                                </TabPane>
                                 <TabPane tab="In Proress" key="2">
-                                    Content of Tab Pane 2
-                            </TabPane>
+                                </TabPane>
                                 <TabPane tab="Complete" key="3">
-                                    Content of Tab Pane 3
-                            </TabPane>
+                                </TabPane>
                                 <TabPane tab="Cancel" key="4">
-                                    Content of Tab Pane 4
-                            </TabPane>
+                                </TabPane>
                                 <TabPane tab="All" key="5">
-                                    Content of Tab Pane 5
-                            </TabPane>
+                                </TabPane>
                             </Tabs>
                         </Col>
                     </Row>

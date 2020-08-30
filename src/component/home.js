@@ -84,7 +84,7 @@ export default function Home() {
 
         if (!loginResult.userok || !loginResult.decodeok) {
             localStorage.setItem("errortext_profreight", 'ข้อมูล Log In ไม่ถูกต้อง กรุณาอย่าโกงระบบ');
-            navigate(apphelper.NavigatPath.frmerror)
+            navigate(apphelper.NavigatPath.login)
             return;
         }
 
