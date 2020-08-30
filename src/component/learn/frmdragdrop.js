@@ -188,7 +188,7 @@ export default function FrmDragDrop() {
     const DivMain = (item) => {
         //console.log(rowData)
         return (
-            <div style={{ height: 300, marginTop: 15, borderRadius: 10, padding: 8, borderStyle: "solid", borderColor: '#CACACA', borderWidth: 1 }}>
+            <div style={styles.divmain}>
                 <div style={styles.divmainheader}>
                     {item.Name}
                 </div>
@@ -229,6 +229,16 @@ export default function FrmDragDrop() {
 }
 
 const styles = useStyles({
+    divmain : {
+        height: 300, 
+        marginTop: 15, 
+        borderRadius: 10, 
+        padding: 8, 
+        borderStyle: "solid", 
+        borderColor: '#CACACA', 
+        borderWidth: 1,
+        boxShadow: "2px 2px 2px #E8E8E8"
+    },
     divmainheader: {
         height: '8%',
         fontStyle: 'bold',

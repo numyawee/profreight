@@ -42,6 +42,11 @@ export default useStyles({
         borderColor: '#78BE9C',
         color: '#78BE9C'
     },
+    formtablebutton: {
+        fontSize: 12,
+        height: 20,
+        paddingTop: 0
+    },
     formcontrol : {
         marginLeft: 5
     },

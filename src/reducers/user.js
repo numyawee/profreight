@@ -1,4 +1,4 @@
-import appconfig from '../appconfig.json';
+//import appconfig from '../appconfig.json';
 
 const user = (state = {}, action) => {
     switch(action.type){
@@ -11,7 +11,16 @@ const user = (state = {}, action) => {
     }
 }
 
-const systemenv = (state = {apiurl : appconfig.apiurl , apiuserurl: appconfig.apiuserurl}, action) => {
+// const systemenv = (state = {apiurl : appconfig.apiurl , apiuserurl: appconfig.apiuserurl}, action) => {
+//     switch(action.type){
+//         case "SYSTEMCONFIGENV":
+//             return {...state , ...action.payload }
+//         default: 
+//             return state
+//     }
+// }
+
+const systemenv = (state = {apiurl : '' , apiuserurl: ''}, action) => {
     switch(action.type){
         case "SYSTEMCONFIGENV":
             return {...state , ...action.payload }

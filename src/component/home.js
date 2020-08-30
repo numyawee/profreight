@@ -344,11 +344,11 @@ const styles = useStyles({
         'whiteSpace': 'unset'
     },
     headerpage: {
-        height: '10vh',
+        height: '7vh',
         backgroundColor: '#365D40'
     },
     bodypage: {
-        minHeight: '90vh',
+        minHeight: '93vh',
         backgroundColor: 'black'
     },
     leftbodypage: {
