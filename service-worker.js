@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/profreight/precache-manifest.c642f1d286fc2bde31224d06046b4d5a.js"
+  "/profreight/precache-manifest.b8e15989e74c909009b5247407efc102.js"
 );
 
 self.addEventListener('message', (event) => {

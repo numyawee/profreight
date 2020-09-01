@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/profreight/static/css/main.d1f84373.chunk.css",
-    "main.js": "/profreight/static/js/main.8e92cd75.chunk.js",
-    "main.js.map": "/profreight/static/js/main.8e92cd75.chunk.js.map",
+    "main.css": "/profreight/static/css/main.a85df672.chunk.css",
+    "main.js": "/profreight/static/js/main.e6d35496.chunk.js",
+    "main.js.map": "/profreight/static/js/main.e6d35496.chunk.js.map",
     "runtime-main.js": "/profreight/static/js/runtime-main.a6e29c97.js",
     "runtime-main.js.map": "/profreight/static/js/runtime-main.a6e29c97.js.map",
     "static/css/2.cc98a02a.chunk.css": "/profreight/static/css/2.cc98a02a.chunk.css",
-    "static/js/2.bab21094.chunk.js": "/profreight/static/js/2.bab21094.chunk.js",
-    "static/js/2.bab21094.chunk.js.map": "/profreight/static/js/2.bab21094.chunk.js.map",
+    "static/js/2.c810aba1.chunk.js": "/profreight/static/js/2.c810aba1.chunk.js",
+    "static/js/2.c810aba1.chunk.js.map": "/profreight/static/js/2.c810aba1.chunk.js.map",
     "index.html": "/profreight/index.html",
-    "precache-manifest.c642f1d286fc2bde31224d06046b4d5a.js": "/profreight/precache-manifest.c642f1d286fc2bde31224d06046b4d5a.js",
+    "precache-manifest.b8e15989e74c909009b5247407efc102.js": "/profreight/precache-manifest.b8e15989e74c909009b5247407efc102.js",
     "service-worker.js": "/profreight/service-worker.js",
     "static/css/2.cc98a02a.chunk.css.map": "/profreight/static/css/2.cc98a02a.chunk.css.map",
-    "static/css/main.d1f84373.chunk.css.map": "/profreight/static/css/main.d1f84373.chunk.css.map",
-    "static/js/2.bab21094.chunk.js.LICENSE.txt": "/profreight/static/js/2.bab21094.chunk.js.LICENSE.txt",
+    "static/css/main.a85df672.chunk.css.map": "/profreight/static/css/main.a85df672.chunk.css.map",
+    "static/js/2.c810aba1.chunk.js.LICENSE.txt": "/profreight/static/js/2.c810aba1.chunk.js.LICENSE.txt",
     "static/media/primereact.min.css": "/profreight/static/media/line.567f5738.gif",
     "static/media/lgBackgroundImg.png": "/profreight/static/media/lgBackgroundImg.07453124.png",
     "static/media/theme.css": "/profreight/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.a6e29c97.js",
     "static/css/2.cc98a02a.chunk.css",
-    "static/js/2.bab21094.chunk.js",
-    "static/css/main.d1f84373.chunk.css",
-    "static/js/main.8e92cd75.chunk.js"
+    "static/js/2.c810aba1.chunk.js",
+    "static/css/main.a85df672.chunk.css",
+    "static/js/main.e6d35496.chunk.js"
   ]
 }
