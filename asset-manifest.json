@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/profreight/static/css/main.a84b2608.chunk.css",
-    "main.js": "/profreight/static/js/main.e6d35496.chunk.js",
-    "main.js.map": "/profreight/static/js/main.e6d35496.chunk.js.map",
+    "main.css": "/profreight/static/css/main.4a541dd3.chunk.css",
+    "main.js": "/profreight/static/js/main.3e4c5e02.chunk.js",
+    "main.js.map": "/profreight/static/js/main.3e4c5e02.chunk.js.map",
     "runtime-main.js": "/profreight/static/js/runtime-main.a6e29c97.js",
     "runtime-main.js.map": "/profreight/static/js/runtime-main.a6e29c97.js.map",
-    "static/css/2.cc98a02a.chunk.css": "/profreight/static/css/2.cc98a02a.chunk.css",
-    "static/js/2.c810aba1.chunk.js": "/profreight/static/js/2.c810aba1.chunk.js",
-    "static/js/2.c810aba1.chunk.js.map": "/profreight/static/js/2.c810aba1.chunk.js.map",
+    "static/css/2.5f9557da.chunk.css": "/profreight/static/css/2.5f9557da.chunk.css",
+    "static/js/2.bb876d68.chunk.js": "/profreight/static/js/2.bb876d68.chunk.js",
+    "static/js/2.bb876d68.chunk.js.map": "/profreight/static/js/2.bb876d68.chunk.js.map",
     "index.html": "/profreight/index.html",
-    "precache-manifest.4f965fbfcfbc7c7f6b4c1340ac77e681.js": "/profreight/precache-manifest.4f965fbfcfbc7c7f6b4c1340ac77e681.js",
+    "precache-manifest.c4aca3fa81f11c72503a28c4b5c786d2.js": "/profreight/precache-manifest.c4aca3fa81f11c72503a28c4b5c786d2.js",
     "service-worker.js": "/profreight/service-worker.js",
-    "static/css/2.cc98a02a.chunk.css.map": "/profreight/static/css/2.cc98a02a.chunk.css.map",
-    "static/css/main.a84b2608.chunk.css.map": "/profreight/static/css/main.a84b2608.chunk.css.map",
-    "static/js/2.c810aba1.chunk.js.LICENSE.txt": "/profreight/static/js/2.c810aba1.chunk.js.LICENSE.txt",
+    "static/css/2.5f9557da.chunk.css.map": "/profreight/static/css/2.5f9557da.chunk.css.map",
+    "static/css/main.4a541dd3.chunk.css.map": "/profreight/static/css/main.4a541dd3.chunk.css.map",
+    "static/js/2.bb876d68.chunk.js.LICENSE.txt": "/profreight/static/js/2.bb876d68.chunk.js.LICENSE.txt",
     "static/media/primereact.min.css": "/profreight/static/media/line.567f5738.gif",
     "static/media/lgBackgroundImg.png": "/profreight/static/media/lgBackgroundImg.07453124.png",
     "static/media/theme.css": "/profreight/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a6e29c97.js",
-    "static/css/2.cc98a02a.chunk.css",
-    "static/js/2.c810aba1.chunk.js",
-    "static/css/main.a84b2608.chunk.css",
-    "static/js/main.e6d35496.chunk.js"
+    "static/css/2.5f9557da.chunk.css",
+    "static/js/2.bb876d68.chunk.js",
+    "static/css/main.4a541dd3.chunk.css",
+    "static/js/main.3e4c5e02.chunk.js"
   ]
 }
