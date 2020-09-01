@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eaeaf652b6d6735eb88d83e2f21e2a42",
+    "revision": "18590cf0d3549969e0e075fe9249fc68",
     "url": "/profreight/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/profreight/static/css/2.cc98a02a.chunk.css"
   },
   {
-    "revision": "99917f312b9cccbab409",
-    "url": "/profreight/static/css/main.a85df672.chunk.css"
+    "revision": "16bdef223b0b3dd98a27",
+    "url": "/profreight/static/css/main.a84b2608.chunk.css"
   },
   {
     "revision": "c42c734086240d174c87",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/profreight/static/js/2.c810aba1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99917f312b9cccbab409",
+    "revision": "16bdef223b0b3dd98a27",
     "url": "/profreight/static/js/main.e6d35496.chunk.js"
   },
   {
